@@ -1,3 +1,12 @@
+
+<!doctype html>
+<html lang="en" style="overflow-x: hidden !important;">
+  <head>
+    <!-- Required meta tags -->
+  
+    
+  </head>
+  <body style="overflow-x: hidden !important; position:relative !important;">
 <?php
 include "./components/header.php";
 ?>
@@ -12,8 +21,7 @@ include "./components/header.php";
 }
 </style>
 
-<div class="card mb-3" style="max-width: 700px;
-   height: 700px;
+<div class="card mb-3" style="
    display: inline;
    ">
   <div class="row g-0 row-g-0-div-cuser" style="align-items: center; margin-left: 20%;">
@@ -65,3 +73,4 @@ include "./components/header.php";
 <?php
 include "./components/footer.php";
 ?>
+  </body>
