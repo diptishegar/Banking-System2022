@@ -23,6 +23,10 @@
   text-align: start;
   white-space: nowrap;
 }
+.html{
+    overflow-x: hidden;
+}
+
 
 /* Media Query section */
 @media (max-width: 500px) and (min-width: 219px) {

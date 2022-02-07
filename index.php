@@ -21,6 +21,9 @@
         <h5 class="card-title text-primary display-4 display-sm-1 bold">Welcome to Banking System!</h5>
         <p class="card-text">Through this Banking System you are able to transfer money to any selected customer with any selected account, view all customers and transaction history.</p>
         <p class="card-text"><small class="text-muted display-6">Happy Banking!!!</small></p>
+        <div class="card-text d-flex">
+        <button class="btn btn-outline-success">Get Started</button>
+        </div>
       </div>
     </div>
     <div class="col-md-4">
