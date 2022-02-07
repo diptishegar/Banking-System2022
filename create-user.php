@@ -2,7 +2,15 @@
 include "./components/header.php";
 ?>
 
-
+<style>
+  .html{
+    overflow-x: hidden !important;
+}
+.body{
+  position: relative;
+  overflow-x: hidden !important;
+}
+</style>
 
 <div class="card mb-3" style="max-width: 700px;
    height: 700px;

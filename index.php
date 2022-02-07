@@ -1,11 +1,11 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" style="overflow-x: hidden !important;">
   <head>
     <!-- Required meta tags -->
   
     
   </head>
-  <body>
+  <body style="overflow-x: hidden !important; position:relative !important;">
   <?php 
     include"./components/header.php";
     ?>

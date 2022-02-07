@@ -24,7 +24,11 @@
   white-space: nowrap;
 }
 .html{
-    overflow-x: hidden;
+    overflow-x: hidden !important;
+}
+.body{
+  position: relative;
+  overflow-x: hidden !important;
 }
 
 
