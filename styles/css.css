@@ -32,6 +32,41 @@
 }
 
 
+
+/* Animations */
+
+@keyframes myAnim {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes myanim {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes contactimg {
+  0% {
+    opacity: 0;
+    transform: translateX(-50px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
 /* Media Query section */
 @media (max-width: 500px) and (min-width: 219px) {
   .row-g-0-div-cuser {
